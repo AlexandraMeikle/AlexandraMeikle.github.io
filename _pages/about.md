@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). I graduated from the University of Glasgow in 2018 with an M.A. in Psychology (with Honours of the First Class), and I'm now working towards an M.Sc.in Research Methods in Psychological Science supervised by [Prof Stephany Biello](https://www.gla.ac.uk/schools/psychology/staff/stephanybiello/) and [Dr Maria Gardani](https://www.gla.ac.uk/schools/psychology/staff/mariagardani/).
 
-<br>
 
 Current Interests
 ------
 I am currently interested in issues regarding student mental health. Specifically, on-campus mental health services which aim to provide early intervention with the goal of improving access to counselling services. 
 
-<br>
 
 **Ongoing Research Projects** <br>
 
