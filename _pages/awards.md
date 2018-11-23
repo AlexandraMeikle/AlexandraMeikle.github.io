@@ -3,9 +3,6 @@ permalink: /awards/
 title: "Awards"
 excerpt: "Awards"
 author_profile: true
-redirect_from: 
-  - /awards/
-  - /awards.html
 ---
 
 **Robert H. Thouless Prize for best Undergraduate Literature Review (2018)**
