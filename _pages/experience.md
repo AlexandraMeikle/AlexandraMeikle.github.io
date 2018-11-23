@@ -5,9 +5,12 @@ excerpt: "Experience"
 author_profile: true
 ---
 
-**Strengthening Circadian Rhythmicity in Mice Housed Under Dim Light at Night Through 3-HR Dark Pulses (2018)**
+
+**Final Year Undergraduate Project (2018)**
 <br>
-*Final Year Undergraduate Project*<br>
+
+*Strengthening Circadian Rhythmicity in Mice Housed Under Dim Light at Night Through 3-HR Dark Pulses (2018)*<br>
+
      Abstract: Timing cues for the circadian clock are diminished by artificial dim light at night in the home and
 urbanised environment; subsequently effecting the rhythmicity of sleeping patterns. Animal research
 has already shown that the presence of a dark pulse can act as a zeitgeber and improve
@@ -24,5 +27,6 @@ housed in DLAN, with potentially long-lasting effects on stability.
 <br>
 **Research Studentship: Glasgow Science Centre (2017)** 
 <br>
+
      I conducted a summer research project on sleep and reasoning biases, supervised by Prof. Stephany Biello. We used a modified "beads task" to investigate the relationship between sleep disruption and jumping to conclusions bias, and collected data from visitors at the GSC. Data was collected at a 'Meet the Expert' public engagement stall.
 
