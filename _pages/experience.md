@@ -9,7 +9,7 @@ author_profile: true
 **Final Year Undergraduate Project (2018)**
 <br>
 
-*Strengthening Circadian Rhythmicity in Mice Housed Under Dim Light at Night Through 3-HR Dark Pulses (2018)*<br>
+Strengthening Circadian Rhythmicity in Mice Housed Under Dim Light at Night Through 3-HR Dark Pulses (2018)<br>
 
      Abstract: Timing cues for the circadian clock are diminished by artificial dim light at night in the home and
 urbanised environment; subsequently effecting the rhythmicity of sleeping patterns. Animal research
@@ -22,9 +22,9 @@ decreased intradaily variability, and the magnitude of the effect on IV was stro
 4 months) than in old (13-15 months); indicating a reduction in responsivity in the older group. The
 findings presented here exhibit an effective method for strengthening circadian rhythmicity in mice
 housed in DLAN, with potentially long-lasting effects on stability. 
+
 <br>
-<br>
-<br>
+
 **Research Studentship: Glasgow Science Centre (2017)** 
 <br>
 
