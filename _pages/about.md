@@ -24,4 +24,4 @@ The aim of this project is to evaluate the University of Glasgow's [CaPS Peer Su
 
 **Systematic Review: Mental Health of Postgraduate Students** <br>
 
-I will also be assisting [Jelena Milicev](http://www.psy.gla.ac.uk/staff/?id=JM010) in writing a systematic review on the prevalence of mental health issues in postrgraduate students.
+I will also be assisting [Jelena Milicev](http://www.psy.gla.ac.uk/staff/?id=JM010) in writing a systematic review on the prevalence of mental health issues in postgraduate students.
