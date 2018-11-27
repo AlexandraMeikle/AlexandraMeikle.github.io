@@ -17,8 +17,9 @@ author_profile: true
 **BPS Undergraduate Conference**<br>
  *24/03/2018, Talk, University of Glasgow*
 <br>
-   Strengthening Circadian Rhythmicity in Mice Housed Under Dim Light at Night Through 3-HR Dark Pulses (2018)
+   Strengthening Circadian Rhythmicity in Mice Housed Under Dim Light at Night Through 3-HR Dark Pulses (2018) <br>
 [Download Slides](http://AlexandraMeikle.github.io/files/bps presentation.pdf)
+
 <br>
 
 **University of Glasgow Undergraduate Conference**<br>
