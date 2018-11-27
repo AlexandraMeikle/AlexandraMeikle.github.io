@@ -26,5 +26,4 @@ author_profile: true
 <br>
    Strengthening Circadian Rhythmicity in Mice Housed Under Dim Light at Night Through 3-HR Dark Pulses (2018)
 
-
-![Poster](dark_pulse_poster.png)
+<img src='/images/dark_pulse/poster.png'>
