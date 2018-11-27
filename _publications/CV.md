@@ -6,4 +6,4 @@ paperurl: 'http://AlexandraMeikle.github.io/files/CV_webpage.pdf'
 
 [Download here](http://AlexandraMeikle.github.io/files/CV_webpage.pdf)
 <br>
-For personal contact details, please email 2133759m@student.gla.ac.uk. 
+For personal contact details, please email me at 2133759m@student.gla.ac.uk. 
