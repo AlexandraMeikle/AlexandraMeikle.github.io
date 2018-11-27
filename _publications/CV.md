@@ -1,6 +1,6 @@
 ---
 title: "CV download link (Updated 27/11/18)"
-permalink: /CV
+permalink: /CV/
 paperurl: 'http://AlexandraMeikle.github.io/files/CV_webpage.pdf'
 ---
 
