@@ -11,7 +11,7 @@ author_profile: true
 
 Strengthening Circadian Rhythmicity in Mice Housed Under Dim Light at Night Through 3-HR Dark Pulses (2018)<br>
 
-*Abstract: Timing cues for the circadian clock are diminished by artificial dim light at night (DLAN) in the home and
+Abstract: Timing cues for the circadian clock are diminished by artificial dim light at night (DLAN) in the home and
 urbanised environment; subsequently effecting the rhythmicity of sleeping patterns. Animal research
 has already shown that the presence of a dark pulse can act as a zeitgeber and improve
 synchronization under the traditional light/dark cycle. The present study aims to examine the effect of
@@ -21,9 +21,9 @@ DLAN schedule. The presence of a dark pulse significantly increased interdaily s
 decreased intradaily variability, and the magnitude of the effect on IV was stronger in young mice (3-
 4 months) than in old (13-15 months); indicating a reduction in responsivity in the older group. The
 findings presented here exhibit an effective method for strengthening circadian rhythmicity in mice
-housed in DLAN, with potentially long-lasting effects on stability.*<br>
+housed in DLAN, with potentially long-lasting effects on stability.<br>
 
-Full download available on request<br>
+*Full download available on request*<br>
 
 
 <br>
