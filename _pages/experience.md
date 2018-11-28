@@ -31,5 +31,7 @@ Full download available on request<br>
 **Research Studentship: Glasgow Science Centre (2017)** 
 <br>
 
-I conducted a summer research project on sleep and reasoning biases, supervised by Prof. Stephany Biello. We used a modified "beads task" to investigate the relationship between sleep disruption and jumping to conclusions bias, and collected data from visitors at the GSC. Data was collected at a 'Meet the Expert' public engagement stall.
+I conducted a summer research project on sleep and reasoning biases, supervised by Prof. Stephany Biello. We used a modified "beads task" to investigate the relationship between sleep disruption and jumping to conclusions bias, and collected data from visitors at the GSC. Data was collected at a 'Meet the Expert' public engagement stall. <br>
+
+<img style = "margin; 25px 25px 25px 25px;" img src='/images/sciencecentre.jpg'>
 
