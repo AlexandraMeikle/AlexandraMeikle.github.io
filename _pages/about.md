@@ -17,11 +17,11 @@ I am currently interested in issues regarding student mental health. Specificall
 Ongoing Research Projects
 ------
 
-**Evaluating User and Supporter Experiences of a Student-Led Peer Support Service** <br>
+**Evaluating experiences of the University of Glasgow's CaPS student-led peer support service** <br>
 
 The aim of this project is to evaluate the University of Glasgow's [CaPS Peer Support service](https://www.gla.ac.uk/myglasgow/counselling/peersupport/). The student-led service provides information and support for students with mild mental health issues. I will be involved in the initial stages of a mixed-method investigation to collect the experiences of those involved with the service. We will use this information to facilitate and inform the upcoming expansion of the program into the College of Arts.
 
 
-**Systematic Review: Mental Health of Postgraduate Students** <br>
+**Systematic review: mental health of postgraduate students** <br>
 
 I will also be assisting [Jelena Milicev](http://www.psy.gla.ac.uk/staff/?id=JM010) in writing a systematic review on the prevalence of mental health issues in postgraduate students.
